@@ -9,7 +9,6 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 Sprememba 1
 Sprememba 2 
-Sprememba 3
 
 
 ## Glavne značilnosti
