@@ -8,6 +8,7 @@ Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato p
 S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 Sprememba 1
+Sprememba 2 
 
 
 ## Glavne značilnosti
